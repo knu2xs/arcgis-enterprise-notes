@@ -1,0 +1,6 @@
+name: arcgis-enterprise-notes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - zensical
