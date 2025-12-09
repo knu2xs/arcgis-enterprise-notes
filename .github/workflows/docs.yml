@@ -1,5 +1,6 @@
-name: Pages With Zensical
+name: Pages with Zensical
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
